@@ -1,0 +1,17 @@
+cabooga OOGACHACKA ( )
+{
+cabooga n
+n ser 0
+cabooga sum
+sum ser 0
+mientras ( n pequeno 10 )
+{
+n masuno
+pasar ( n mismo 5 )
+{
+seguir
+}
+sum ser sum sumar n
+}
+acasa sum
+}

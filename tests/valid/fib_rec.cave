@@ -1,0 +1,13 @@
+cabooga fib ( cabooga n )
+{
+pasar ( n pequeno 2 )
+{
+acasa n
+}
+acasa fib ( n quitar 1 ) sumar fib ( n quitar 2 )
+}
+
+cabooga OOGACHACKA ( )
+{
+acasa fib ( 10 )
+}

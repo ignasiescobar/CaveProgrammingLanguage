@@ -1,0 +1,15 @@
+cabooga OOGACHACKA ( )
+{
+cabooga n
+n ser 5
+cabooga r
+r ser 1
+cabooga i
+i ser 1
+mientras ( i pequenomismo n )
+{
+r ser r veces i
+i masuno
+}
+acasa r
+}

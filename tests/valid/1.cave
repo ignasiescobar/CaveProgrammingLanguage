@@ -1,0 +1,16 @@
+
+cabooga fibonacci ( cabooga n)
+{
+pasar ( n pequeno 2 )
+{
+acasa n
+}
+acasa fibonacci ( n quitar 1 ) sumar fibonacci ( n quitar 2 )
+}
+
+cabooga OOGACHACKA ( )
+{
+cabooga resultado
+resultado ser fibonacci ( 2 piedra )
+acasa 0
+}

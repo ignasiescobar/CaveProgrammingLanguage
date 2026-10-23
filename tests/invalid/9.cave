@@ -1,0 +1,9 @@
+// Semantica: nombre d'arguments incorrecte a la crida.
+cabooga f ( cabooga a )
+{
+acasa a
+}
+cabooga OOGACHACKA ( )
+{
+acasa f ( 1 , 2 )
+}

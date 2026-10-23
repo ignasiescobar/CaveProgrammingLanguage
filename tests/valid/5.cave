@@ -1,0 +1,13 @@
+cabooga OOGACHACKA ( )
+{
+cabooga n
+n ser 1
+pasar ( n mismo 1 )
+{
+acasa 1
+}
+nopasar
+{
+acasa 0
+}
+}

@@ -1,0 +1,12 @@
+// Semantica: funcio amb retorn I32 sense acasa en tots els camins.
+cabooga f ( cabooga n )
+{
+pasar ( n mismo 0 )
+{
+acasa 0
+}
+}
+nada OOGACHACKA ( )
+{
+acasa
+}

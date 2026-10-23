@@ -1,0 +1,13 @@
+// Semantica: dues funcions amb el mateix nom.
+cabooga f ( )
+{
+acasa 0
+}
+cabooga f ( )
+{
+acasa 1
+}
+nada OOGACHACKA ( )
+{
+acasa
+}

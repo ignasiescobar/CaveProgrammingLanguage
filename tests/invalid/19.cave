@@ -1,0 +1,11 @@
+// Semantica: parametre notocar no es pot reassignar dins la funcio.
+cabooga f ( notocar cabooga p )
+{
+p ser 2
+acasa p
+}
+nada OOGACHACKA ( )
+{
+f ( 1 )
+acasa
+}

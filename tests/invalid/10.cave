@@ -1,0 +1,9 @@
+// Semantica: parametre duplicat a la mateixa funcio.
+cabooga f ( cabooga x , cabooga x )
+{
+acasa 0
+}
+nada OOGACHACKA ( )
+{
+acasa
+}

@@ -1,0 +1,40 @@
+todoslados cabooga contador ser 0
+
+cabooga suma ( cabooga a , cabooga b )
+{
+    acasa a sumar b
+}
+
+nada mostrar ( )
+{
+    cabooga i ser 0
+
+    mientras ( i pequeno 5 )
+    {
+        i masuno
+    }
+
+    acasa
+}
+
+cabooga OOGACHACKA ( )
+{
+    notocar cabooga valor ser 10
+
+    cabooga resultat
+
+    resultat ser suma ( valor , 5 )
+
+    pasar ( resultat grande 10 )
+    {
+        contador ser resultat
+    }
+    nopasar
+    {
+        contador ser 0
+    }
+
+    mostrar ( )
+
+    acasa contador
+}

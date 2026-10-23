@@ -1,0 +1,8 @@
+// Semantica: condicio de while ha de ser BOOL, no numeric.
+cabooga OOGACHACKA ( )
+{
+mientras ( 1 )
+{
+acasa 0
+}
+}

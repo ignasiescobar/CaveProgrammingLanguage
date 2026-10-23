@@ -1,0 +1,96 @@
+todoslados cabooga numeroGlobal ser 5
+
+notocar booga constanteGlobal ser 2 roca
+
+cabooga sumarNumeros ( cabooga a , cabooga b )
+{
+    cabooga resultado ser a sumar b
+    acasa resultado
+}
+kthnrqmlkt  ###
+granverdad comprobar ( cabooga x )
+{
+    pasar ( x grande 10 )
+    {
+        acasa granverdad
+    }
+    nopasar
+    {
+        acasa granmentira
+    }
+}
+
+nada mostrarCuenta ( cabooga limite )
+{
+    cabooga i ser 0
+
+    mientras ( i pequeno limite )
+    {
+        i masuno
+
+        pasar ( i mismo 5 )
+        {
+            seguir
+        }
+
+        pasar ( i grande 8 )
+        {
+            parar
+        }
+    }
+
+    acasa
+}
+
+cabooga fibonacci ( cabooga n )
+{
+    pasar ( n pequenomismo 1 )
+    {
+        acasa n
+    }
+
+    acasa fibonacci ( n quitar 1 ) sumar fibonacci ( n quitar 2 )
+}
+
+cabooga main ( )
+{
+    cabooga x ser 10
+    cabooga u ser 20
+    cabooga resultado ser 0
+
+    resultado ser sumarNumeros ( x , u )
+
+    pasar ( resultado grande 15 u granverdad )
+    {
+        resultado ser resultado veces 2
+    }
+    nopasar
+    {
+        resultado ser resultado partir 2
+    }
+
+    mientras ( resultado grande 0 )
+    {
+        resultado ser resultado quitar 1
+
+        pasar ( resultado mismo 3 )
+        {
+            seguir
+        }
+
+        pasar ( resultado pequenomismo 1 )
+        {
+            parar
+        }
+    }
+
+    cabooga fibo ser fibonacci ( 5 )
+
+    booga pequenoNumero ser cambiar booga fibo
+
+    mostrarCuenta ( 10 )
+
+    acasa 0
+}
+
+

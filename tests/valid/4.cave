@@ -1,0 +1,10 @@
+cabooga OOGACHACKA ( )
+{
+cabooga n
+n ser 0
+mientras ( n pequeno 3 )
+{
+n masuno
+}
+acasa n
+}

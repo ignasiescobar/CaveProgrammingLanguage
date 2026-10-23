@@ -1,0 +1,52 @@
+todoslados cabooga x ser 5
+
+cabooga suma ( cabooga a , cabooga b )
+{
+    acasa a sumar b
+}
+
+nada prova ( )
+{
+    notocar cabooga j ser 4
+
+    j ser 3
+
+    pasar ( 5 ){
+
+    parar
+    }
+
+    z ser 4
+
+    cabooga duplicada ser 1
+    cabooga duplicada ser 2
+
+    x ser granverdad
+
+    cabooga calc
+    calc ser 8 sumar granmentira
+
+    pasar ( no 10 )
+
+    {
+        acasa 1
+    }
+
+    suma ( 1 )
+}
+
+cabooga funcioSenseReturn ( cabooga n )
+{
+    cabooga temp ser n sumar 1
+}
+
+cabooga OOGACHACKA ( )
+{
+    cabooga res
+    
+    res ser suma ( 2 , granverdad )
+
+    res ser 10 partir 0
+
+    acasa granmentira
+}

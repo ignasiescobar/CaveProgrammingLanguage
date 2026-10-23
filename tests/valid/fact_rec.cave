@@ -1,0 +1,13 @@
+cabooga fact ( cabooga n )
+{
+pasar ( n pequenomismo 1 )
+{
+acasa 1
+}
+acasa n veces fact ( n quitar 1 )
+}
+
+cabooga OOGACHACKA ( )
+{
+acasa fact ( 5 )
+}
